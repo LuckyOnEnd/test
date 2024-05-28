@@ -1,4 +1,4 @@
-﻿namespace ConsoleApp2; //TODO
+﻿namespace ConsoleApp2;
 
 class Program
 {
